@@ -1,0 +1,231 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://adrenak.github.io/univoice/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://adrenak.github.io/univoice/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/UniVoice/UniVoice/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.ChatroomAgent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.ChatroomAgent.html",
+          "hash": "u4sbRNybTPkJs98Hcbbe9FKg29HeY8LyH7JvxGXpQJU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.ChatroomAgentMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.ChatroomAgentMode.html",
+          "hash": "ia7OxPxOEg1z1/be4j8ZDxT5tQT9+3ASF8beAGkGf18="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.ChatroomAudioSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.ChatroomAudioSegment.html",
+          "hash": "0D0Q4FOrqmKTiEDAH0o/yRRjqpwk9xhh0q+Te5VdtGA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.ChatroomPeerSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.ChatroomPeerSettings.html",
+          "hash": "vFxgwcs51OCeS26UgY0i4x9OIy0GwFFwjLxPLI2sCUk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.Extensions.html",
+          "hash": "lLCqVNeIMjwmp2K6JZjglppFX+b9awrd0/j9AxZXaxc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioInput.html",
+          "hash": "JuX/sWqU8dayhya5N6YCPikTf25e6gfbIYmqSqVzGD0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioOutput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioOutput.html",
+          "hash": "EmN+xnaKXo6MYd4WSC6f9zb2QvrVRP/gQEiIsMNYoUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IAudioOutputFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IAudioOutputFactory.html",
+          "hash": "eVMSjFbxTTTHvJth99QDYe4/7Ivxs6DUwAiXVVeItP0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.IChatroomNetwork.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.IChatroomNetwork.html",
+          "hash": "5dyWx+kgDQpnlIc+OiICKP5QXAIsfqHUgxjuWhLVBv0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Adrenak.UniVoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Adrenak.UniVoice.html",
+          "hash": "EUYf2v2dvcYV2hGPIXQ4ywgrD0HgQavedSeOZop54sY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "B9F1WPKvu9VSzjVC1kHYIS2CPJxMw4NZOq+CO9V5bzw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "JLYNEgqLMZDv0SfLBmC7zYhaY0fQVtjZE8+QzPXJpyA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "cBffZGYANJBfJAM3Uw0BLUCLy4qk1OS5d2seAwAo8yE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 10,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
